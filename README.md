@@ -10,7 +10,7 @@ I 'm Amar Kumar Full Stack Java Developer . I 'm CSE student at * Roorkee <br>In
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amar-kumar-cse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amar-kumar-cse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-kumar-cse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amar-kumar-cse&icon=0&color=0)](https://visitcount.itsvg.in)
