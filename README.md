@@ -1,5 +1,5 @@
 # 💫 About Me:
-I 'm Amar Kumar Full Stack Java Developer . I 'm CSE student at * Roorkee <br>Institute of Technology * passionate about building scalable web <br>applications and exploring the world.     <br>*Languages:* Java (Core & Advanced), SQL, JavaScript, HTML/CSS  <br>*Frameworks:* Spring Boot, React (Learning)  <br>*Tools:* Git, GitHub, VS Code, IntelliJ IDEA  <br>*Interests:* UI/UX Engineering, Prompt Engineering, Android/iOS Development  <br>
+I 'm Amar Kumar Full Stack Java Developer . I 'm CSE student at * Roorkee <br>Institute of Technology * passionate about building scalable web <br>applications and exploring the world.     <br>*Languages:* Java (Core & Advanced), SQL, JavaScript, HTML/CSS  <br>*Frameworks:* Spring Boot, React (Learning)  <br>*Tools:* Git, GitHub, VS Code, IntelliJ IDEA  <br>*Interests:* Prompt Engineering, Android/iOS Development  <br>
 
 
 ## 🌐 Socials:
